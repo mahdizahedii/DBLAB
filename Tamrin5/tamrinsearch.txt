@@ -1,0 +1,1 @@
+SELECT * FROM `car` WHERE CONCAT(`brand`,`model`,`color`,`typelabel`) LIKE '%مقدار مورد نظر%';
